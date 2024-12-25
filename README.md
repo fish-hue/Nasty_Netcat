@@ -1,5 +1,3 @@
-Here's a sample README file for the Python script that serves as a guide to understanding and using the script effectively. You can customize it further as needed.
-
 ---
 
 # Nasty Netcat
